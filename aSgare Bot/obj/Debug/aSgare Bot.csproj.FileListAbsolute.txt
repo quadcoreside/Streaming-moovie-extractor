@@ -1,0 +1,28 @@
+c:\users\quadcore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\bin\Debug\aSgare Bot.exe.config
+C:\Users\QuadCore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\bin\Debug\aSgare Bot.exe
+C:\Users\QuadCore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\bin\Debug\aSgare Bot.pdb
+C:\Users\QuadCore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.csprojResolveAssemblyReference.cache
+C:\Users\QuadCore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.Properties.Resources.resources
+C:\Users\QuadCore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.csproj.GenerateResource.Cache
+C:\Users\QuadCore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.exe
+C:\Users\QuadCore\documents\visual studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.pdb
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\aSgare Bot\aSgare Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\aSgare Bot\aSgare Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\aSgare Bot\aSgare Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.ConfigScrapForm.resources
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.MainForm.resources
+C:\Users\QuadCore\Documents\Visual Studio 2013\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.ItemViewForm.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\bin\Debug\aSgare Bot.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\bin\Debug\aSgare Bot.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\bin\Debug\aSgare Bot.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.ConfigScrapForm.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.ItemViewForm.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.MainForm.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare_Bot.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\aSgare Bot\aSgare Bot\obj\Debug\aSgare Bot.pdb
